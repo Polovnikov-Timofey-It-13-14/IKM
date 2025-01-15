@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\projects\ИКМ\ИКМ\Source.cpp(45,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\projects\ИКМ\ИКМ\Source.cpp(45,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ИКМ.vcxproj -> E:\projects\ИКМ\x64\Debug\ИКМ.exe
